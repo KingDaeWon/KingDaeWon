@@ -1,5 +1,5 @@
 <div align=center><h2> 끊임없이 발전하는 개발자 김대원입니다.</h2></div>
-<div align=left>
+<div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
